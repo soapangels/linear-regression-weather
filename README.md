@@ -21,4 +21,3 @@ An engineering and classical statistical baseline designed to establish a perfor
 * `/workflow`: Executable `.knwf` file containing the baseline regression nodes and data partition filters.
 * `/daily_weather_files.zip`: Raw data files for upload to KNIME to perform the workflow.
 
-* 
