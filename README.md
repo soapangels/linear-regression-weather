@@ -19,4 +19,6 @@ An engineering and classical statistical baseline designed to establish a perfor
 
 ## 📂 Repository Layout
 * `/workflow`: Executable `.knwf` file containing the baseline regression nodes and data partition filters.
-* `/scripts`: Baseline Python code components used for exploratory data analysis (EDA) and initial feature matrix plotting.
+* `/daily_weather_files.zip`: Raw data files for upload to KNIME to perform the workflow.
+
+* 
